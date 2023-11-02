@@ -1,0 +1,8 @@
+.img {
+    max-width: 13px;
+    max-height: 13px;
+}
+
+.button:disabled {
+    cursor: not-allowed;
+}
